@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Renato Pinheiro (ou só Ret Pinheiro)!
+
 <div align="center">
   <a href="https://github.com/retpinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=retpinheiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
