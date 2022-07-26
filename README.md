@@ -16,7 +16,7 @@
   
 <img align="right" alt="astrinha.gif" height="150" src="
 
-https://raw.githubusercontent.com/retpinheiro/retpinheiro/main/.github/workflows/astrinha.gif
+
 
 " style="max-width: 100%;">
   
