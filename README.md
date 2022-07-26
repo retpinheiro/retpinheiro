@@ -15,13 +15,13 @@
   <img align="center" alt="Ret-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ret-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
-
+<img aling="right" alt="astrinha.gif" height="40" width="40" src="https://github.com/retpinheiro/retpinheiro/blob/main/.github/workflows/astrinha.gif?raw=true"/>
 
 </div>
   
   ## 
   
-   <img aling="right" alt="astrinha.gif" height="40" width="40" src="https://github.com/retpinheiro/retpinheiro/blob/main/.github/workflows/astrinha.gif?raw=true"/>
+   
  
 <div> 
   <a href="https://instagram.com/retpinheiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
