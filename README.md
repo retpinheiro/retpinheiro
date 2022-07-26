@@ -15,7 +15,7 @@
   <img align="center" alt="Ret-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ret-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-  <img align="right" alt="Ret-Astra" height="150" style="border-radius:50px;" src="https://github.com/retpinheiro/retpinheiro/blob/7f6b0b9dccefa73cf2b1e1a6e46a27e187683d84/.github/workflows/astrinha.gif?raw=true">
+  <img align="right" alt="Ret-Astra" height="150" style="border-radius:50px;" src="https://github.com/retpinheiro/retpinheiro/blob/7f6b0b9dccefa73cf2b1e1a6e46a27e187683d84/.github/workflows/astrinha.gif?raw=true" target="_blank">
 
 </div>
 
