@@ -16,7 +16,7 @@
   
 </div>
   
-  <div style="display:inline_block">
+  <div style="display:flex">
   ## <img aling="right" alt="astrinha.gif" height="40" width="40" src="https://github.com/retpinheiro/retpinheiro/blob/main/.github/workflows/astrinha.gif?raw=true"/>
   </div>
    
