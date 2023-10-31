@@ -13,6 +13,7 @@
   <img align="center" alt="Ret-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ret-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ret-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Ret-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   
 <img align="right" alt="astrinha.gif" height="150" src="https://64.media.tumblr.com/418ff2975a2d27cc5f0cad9231171f76/e8c82ffb72e9736d-0b/s250x400/77d01654123d6c771680f7403aec76f5b926e5b2.gifv" style="max-width: 100%;">
   
